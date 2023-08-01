@@ -6,7 +6,7 @@ The tools created here include:
 ### Slit Calibration
 A script that segments a slit of light from the slit beam to determine the mm:pixel required for future measurements.
 
-### Ulcer Segmentation Netwrok
+### Ulcer Segmentation Network
 To be uploaded soon.
 
 ### Measurement Tool and Metrics
